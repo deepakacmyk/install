@@ -1,6 +1,6 @@
 #!/bin/bash
 # ==============================================
-# 👑 Deepak's 24/7 Command Menu System
+# 👑 Deepak's 24/7 Command Menu System (2s Version)
 # ==============================================
 
 deepak_banner() {
@@ -19,7 +19,7 @@ deepak_247() {
     # 👇 Yahan tum apni custom command daal sakte ho:
     # For example:
     # deepak_command_here
-    sleep 10
+    sleep 2
   done
 }
 
